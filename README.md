@@ -1,4 +1,5 @@
 - Node Version : v18.7.0
+- PostgreSQL : 16.0
 - Environment setup
     * Environment variables
         USER=''       - user name of psql
